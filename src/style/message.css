@@ -1,0 +1,13 @@
+.message {
+    background-color: grey;
+    text-align: center 
+    }
+    .il{
+        
+        text-align: left;
+        text-indent: 1.5em; 
+        background-color: khaki;
+        display: table;
+        border: 2px dotted rgb(190, 136, 18);
+        padding-right:  15px;
+    }
